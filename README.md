@@ -2,6 +2,10 @@
 
 Run Stable Diffusion on your machine with a nice UI without any hassle!
 
+In this repo, make some modification for Chinese network due to GFW.
+
+在本repo中，针对中国特殊的网络环境做出相应修改，填坑。
+
 ## Setup & Usage
 
 Visit the wiki for [Setup](https://github.com/AbdBarho/stable-diffusion-webui-docker/wiki/Setup) and [Usage](https://github.com/AbdBarho/stable-diffusion-webui-docker/wiki/Usage) instructions, checkout the [FAQ](https://github.com/AbdBarho/stable-diffusion-webui-docker/wiki/FAQ) page if you face any problems, or create a new issue!
